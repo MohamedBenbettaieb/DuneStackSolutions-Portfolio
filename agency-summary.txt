@@ -1,0 +1,174 @@
+===== 01_Agency_Identity_and_Strategy_Draft.pdf =====
+FOUNDING WORKSHOP  |  Draft v0.1  |  02 October 2026
+1
+AGENCY FOUNDATION / 01
+Agency identity
+& strategy
+Purpose, services and initial markets.
+Founders: Issam Ben Hamad and Mohamed Bettaieb
+Working draft for founder review. Recorded rules reflect the discussion; items marked OPEN are not yet
+decided. Agency name remains open.
+01 / Identity and vision
+Agency name: OPEN. Founded by two Tunisian IT engineers, Issam Ben Hamad and
+Mohamed Bettaieb.
+Vision - draft wording: Build a sustainable technology agency serving clients through
+Upwork and direct relationships, progressively growing its team and generating consistent
+income.
+02 / Service capabilities
+Software: Fullstack development; web and mobile software; bot development.
+AI and data: AI automation; AI agents; machine learning and deep learning models.
+Infrastructure and delivery: Cloud solutions; DevOps; DevSecOps.
+Specialized solutions: Algorithmic trading; blockchain; innovative solutions.
+03 / Initial markets and growth direction
+Initial acquisition channel: Upwork.
+Initial direct market: Local businesses and clients in Douz, Tunisia.
+Growth direction: Develop clients both on and outside Upwork, expand the team and
+establish consistent income. Recruitment is planned per project when needed.
+04 / OPEN - next strategy decisions
+Agency name and brand identity; values; priority services; differentiation; ideal client profiles;
+growth targets and timeline.
+The service list records the founders' intended capabilities. Launch offers and which services
+to promote first have not yet been selected.
+
+===== 02_Founders_and_Governance_Draft.pdf =====
+FOUNDING WORKSHOP  |  Draft v0.1  |  02 October 2026
+1
+AGENCY FOUNDATION / 02
+Founders
+& governance
+Ownership, authority and departure principles.
+Founders: Issam Ben Hamad and Mohamed Bettaieb
+Working draft for founder review. Recorded rules reflect the discussion; items marked OPEN are not yet
+decided. Agency name remains open.
+01 / Ownership and shared responsibilities
+Issam Ben Hamad: Founder; 50% ownership and equal voting rights.
+Mohamed Bettaieb: Founder; 50% ownership and equal voting rights.
+Both founders jointly manage agency decisions, roles, members and finances. Either founder
+may act as project manager or developer according to project needs.
+02 / Decision-making
+Routine decisions: The relevant specialist has authority within an agreed scope and
+budget.
+Major agency decisions: Both founders' agreement is required in principle. A random pick
+is the agreed fallback for unresolved deadlocks.
+OPEN: Whether the random fallback applies to every major decision or whether some
+matters always require mutual consent. The draw method, timing, and how to resolve
+disputed or equal expertise are also open.
+03 / Founder departure
+If Issam leaves: Full ownership goes to Mohamed Bettaieb.
+If Mohamed leaves: Full ownership goes to Issam Ben Hamad.
+These statements record the founders' intended departure arrangement; this draft does not
+execute an ownership transfer.
+OPEN: Compensation or buyout, notice, transfer procedure, ongoing projects, unpaid
+earnings, liabilities and handover.
+04 / OPEN - governance details
+Definition of major decisions; spending limits; areas of specialization; decision records; and
+the procedure for changing these rules.
+Project PM authority operates within the agency's agreed scope and budget. Ownership
+percentages are separate from project compensation.
+
+===== 03_Services_and_Project_Delivery_Draft.pdf =====
+FOUNDING WORKSHOP  |  Draft v0.1  |  02 October 2026
+1
+AGENCY FOUNDATION / 03
+Services
+& project delivery
+Staffing, project authority and release workflow.
+Founders: Issam Ben Hamad and Mohamed Bettaieb
+Working draft for founder review. Recorded rules reflect the discussion; items marked OPEN are not yet
+decided. Agency name remains open.
+01 / Minimum project staffing
+Every project requires at least two people: a project manager (PM) and at least one
+developer. Either founder may take either role depending on the project. Additional
+developers may be recruited per project when needed.
+02 / Project manager responsibilities
+The PM manages the work, deadlines, meetings, validation of each phase, client
+communication and project decisions. Routine authority remains within the agreed scope and
+budget.
+Developer role: Performs project development. Detailed responsibilities, testing ownership,
+documentation and reporting expectations remain OPEN.
+03 / Pricing and external developers
+The founders are responsible for the pricing approach at this stage. This responsibility may
+later be delegated to a CTO or team lead; no delegation is currently defined.
+External developers receive a fixed price decided by a founder or the PM. Financial allocation
+rules and unresolved calculation details are recorded in Document 04.
+04 / Delivery workflow
+Building > Testing > PM validation > Delivery
+PM validation precedes delivery, and the PM is responsible for validating each project phase.
+05 / OPEN - delivery procedures
+Service packages; estimates and proposals; scope and milestones; acceptance criteria;
+change requests; testing standards and responsibility; handover; client acceptance;
+maintenance and support.
+No warranty period, support commitment or detailed developer checklist has been agreed in
+this draft.
+
+===== 04_Finance_and_Administration_Draft.pdf =====
+FOUNDING WORKSHOP  |  Draft v0.1  |  02 October 2026
+1
+AGENCY FOUNDATION / 04
+Finance
+& administration
+Project allocations, expenses and payment methods.
+Founders: Issam Ben Hamad and Mohamed Bettaieb
+Working draft for founder review. Recorded rules reflect the discussion; items marked OPEN are not yet
+decided. Agency name remains open.
+01 / Expenses and payments
+Identified expenses: AI model subscriptions, infrastructure, Upwork Connects and Upwork
+subscriptions.
+Payments: Through Upwork for Upwork clients; cash for clients outside Upwork for now. No
+separate payment system is currently defined.
+02 / Recorded allocation principles
+The agency retains 10% per project. Fees, if any, are deducted. External developers receive
+an agreed fixed payment before the remaining amount is distributed.
+The remaining distributable project amount is allocated 60% to the developer and 40% to
+the PM. Ownership remains 50% per founder and is separate from this role-based project
+allocation.
+Founders' stated outline: Project money - fees, if any - 10% for the agency = net amount
+to divide between workers. External developer fixed payments must also be accounted for
+before the 60/40 split.
+03 / OPEN - calculation details
+The base for the agency's 10% and the deduction order relative to external developer
+payments remain unresolved. No numeric example or final calculation formula is adopted
+here.
+Allocation of the 60% share when all development is performed by fixed-price external
+developers; treatment of shared subscriptions and other costs; tax treatment; refunds and
+project losses; and payment timing remain open.
+04 / OPEN - administration and compensation
+Founder financial or equipment contributions; detailed compensation arrangements;
+administrative responsibilities; cash records and invoicing; control and use of the agency
+reserve.
+The minimum PM-and-developer requirement is project staffing, not a confirmed financial
+contribution by either founder.
+
+===== 05_Internal_Rules_and_Growth_Draft (1).pdf =====
+FOUNDING WORKSHOP  |  Draft v0.1  |  02 October 2026
+1
+AGENCY FOUNDATION / 05
+Internal rules
+& growth
+Current operating choices and future policy sections.
+Founders: Issam Ben Hamad and Mohamed Bettaieb
+Working draft for founder review. Recorded rules reflect the discussion; items marked OPEN are not yet
+decided. Agency name remains open.
+01 / Communication
+Recorded tool: Discord is the agency's communication tool.
+OPEN: Channel structure, meeting frequency, response expectations and where formal
+decisions and project documents will be stored.
+02 / Recruitment and freelancers
+Recorded approach: Recruit per project whenever needed. External developers are paid a
+fixed price decided by a founder or PM.
+OPEN: Selection criteria, onboarding, responsibilities, agreements, quality review and
+offboarding. Detailed freelancer rules will be developed separately.
+03 / Working arrangements
+OPEN: Availability, working hours, remote or on-site arrangements, workload, absences and
+coordination between concurrent projects.
+04 / Security
+OPEN: Access permissions, credentials, client data handling, repository access, backups,
+incident response and access removal. No detailed security policy has been agreed yet.
+05 / Business development
+Recorded direction: Gain clients on Upwork and in Douz, build direct client relationships,
+expand the team and generate consistent income.
+OPEN: Sales ownership, outreach, portfolio, proposals, client follow-up, partnerships and
+growth measures.
+06 / Further drafting
+This five-document set captures the founding discussion as Draft v0.1. Open sections are
+reserved for later discussion and confirmation; they are not adopted rules.
